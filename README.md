@@ -1,18 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<!--     <title>Profile</title> -->
-</head>
-
-<body>
-    <h2>Heyy..! There it's Ashish Verma Here</h2>
-    <ul>
-        <li>👀 I’m interested in FullStack Development</li>
-    </ul>
-</body>
-
-</html>
+#Heyy..! There it's Ashish Verma Here
+👀 I’m interested in FullStack Development</li>
+🌱 I’m currently learning PHP, Javascript and React.js</li>
+💞️ I’m looking to collaborate on HTML , CSS and My Currently learning topics</li>
